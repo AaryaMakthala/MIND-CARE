@@ -8,7 +8,7 @@ Mind Care helps students navigate exam pressure, career confusion, and everyday 
 gives students a guided path to reach a counselor, curated resources to feel better in the
 moment, and always-visible crisis helplines — all without requiring an account.
 
-[Live Demo](https://mindcare7.netlify.app/) &nbsp;•&nbsp; [Source Code](https://github.com/AaryaMakthala/MIND-CARE) &nbsp;•&nbsp; [Report Bug](https://github.com/AaryaMakthala/MIND-CARE/issues) &nbsp;•&nbsp; [Request Feature](https://github.com/AaryaMakthala/MIND-CARE/issues)
+[Live Demo](https://mindcare7.netlify.app/) &nbsp;•&nbsp; [Report Bug](https://github.com/AaryaMakthala/MIND-CARE/issues) &nbsp;•&nbsp; [Request Feature](https://github.com/AaryaMakthala/MIND-CARE/issues)
 
 <br/>
 
